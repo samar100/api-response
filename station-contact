@@ -1,0 +1,65 @@
+{
+  "responses": {
+    "contacts": [
+      {
+        "contactId": 7,
+        "priority": 1,
+        "departmentLocationCode": "ABE",
+        "departmentLocationName": "ALLENTOWN",
+        "departmentLocationAddressOne": "",
+        "departmentLocationAddressTwo": "",
+        "departmentLocationTimezone": "America/New_York",
+        "currentDepartmentLocationTime": null,
+        "departmentType": "STN",
+        "contactType": "Gate phone",
+        "firstName": "Sam",
+        "lastName": "Harper",
+        "role": "ADM",
+        "offHour": true,
+        "shiftNumber": null,
+        "email": "sam.harper@xyx.com",
+        "shiftStart": null,
+        "shiftEnd": null,
+        "outOfOfficeFrom": "02/10/21",
+        "outOfOfficeTo": "01/11/22",
+        "phoneNumber": {
+          "phoneType": "Mobile",
+          "phoneNumber": "999-999-9999",
+          "extension": 235,
+          "countryCode": "+91"
+        },
+        "active": false
+      },
+      {
+        "contactId": 11,
+        "priority": 1,
+        "departmentLocationCode": "ABE",
+        "departmentLocationName": "ALLENTOWN",
+        "departmentLocationAddressOne": "",
+        "departmentLocationAddressTwo": "",
+        "departmentLocationTimezone": "America/New_York",
+        "currentDepartmentLocationTime": null,
+        "departmentType": "STN",
+        "contactType": "Landline",
+        "firstName": "Andrew",
+        "lastName": "Flintoff",
+        "role": "Manager",
+        "offHour": true,
+        "shiftNumber": 1,
+        "email": "andrew.flintoff@xyx.com",
+        "shiftStart": null,
+        "shiftEnd": null,
+        "outOfOfficeFrom": "07/04/08",
+        "outOfOfficeTo": "07/05/08",
+        "phoneNumber": {
+          "phoneType": "Mobile",
+          "phoneNumber": "999-999-9999",
+          "extension": 235,
+          "countryCode": "+91"
+        },
+        "active": true
+      }
+    ]
+  },
+  "errors": []
+}
